@@ -1,5 +1,8 @@
 ---
-title: "Welcome to my blog"
+title: "Random Notes on Linux, Tech and 42 "
 ---
 
-I'm glad you are here. I plan to talk about ...
+## Linux related 
+
+### Networking 
+
